@@ -1,0 +1,12 @@
+.pic2{
+    opacity: 0;
+    top: 0;
+}
+.pic1{
+    position: relative;
+    top: -14px;
+}
+.pic1:hover .pic2{
+    opacity: 1;
+    
+}
