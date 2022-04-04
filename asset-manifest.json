@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/breezebrand/static/css/main.e1568f26.css",
+    "main.js": "/breezebrand/static/js/main.c50d296e.js",
+    "index.html": "/breezebrand/index.html",
+    "main.e1568f26.css.map": "/breezebrand/static/css/main.e1568f26.css.map",
+    "main.c50d296e.js.map": "/breezebrand/static/js/main.c50d296e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1568f26.css",
+    "static/js/main.c50d296e.js"
+  ]
+}
